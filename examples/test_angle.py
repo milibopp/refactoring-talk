@@ -1,4 +1,4 @@
-from duplicate import *
+from angle import *
 
 def test_orthogonal():
     assert abs(theta([0, 1], [1, 0]) - 90) < 0.01
