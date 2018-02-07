@@ -40,7 +40,9 @@ standardised basic micro-refactorings. […]
 
 # How?
 
-- Identify code smells
+- Code smell: surface indicators of deeper design problems
+- Analyse what the problem is
+- Refactor to mitigate
 
 ---
 
@@ -48,7 +50,7 @@ standardised basic micro-refactorings. […]
 
 - Duplicated code
 - Comments
-- Long method
+- Long method or function
 - Long parameter list
 - Magic values
 - Conditional complexity
