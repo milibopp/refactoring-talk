@@ -2,17 +2,17 @@
 
 *Cleaning up your code*
 
-<img src="images/refactoring-vs-rewriting.gif" >
+<img src="images/refactoring-vs-rewriting.gif">
 
 MeetPy @ MPIA – Feb 7, 2018
 
 ---
 
+<img src="images/wikipedia.png">
+
 **Refactoring** is the process of restructuring existing code *without* changing
 its external behaviour. […] Typically, refactoring applies a series of
 standardised basic micro-refactorings. […]
-
-(Source: Wikipedia)
 
 ---
 
